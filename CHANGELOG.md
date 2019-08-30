@@ -1,3 +1,6 @@
+## v1.1.2
+ - Revert all changes after v1.0.6
+
 ## v1.0.6
 
 - FIX: Set timeout for submitting tags
